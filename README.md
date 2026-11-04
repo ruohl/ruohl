@@ -1,33 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:18181b,100:da8e35&text=ruohl&fontColor=ffffff&fontSize=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:18181b,100:da8e35&text=ruohl&fontColor=ffffff&fontSize=50&animation=fadeIn" width="100%" />
 </div>
 
 ### About Me
 
 Mid-level Software Engineer focused on backend architecture, scalable APIs, and high-traffic infrastructure. Currently developing critical institutional systems, building clean architecture boilerplates, and optimizing automation pipelines.
 
+---
+
 ### Tech Stack
 
-- **Languages:** Go, Python, Java, PHP, JavaScript, TypeScript, SQL
-- **Frameworks & Architecture:** Echo, React, NestJS, Clean Architecture, Domain-Driven Design
-- **Infrastructure & Tools:** Docker, PostgreSQL, Redis, OpenTelemetry, Linux (CachyOS), Git, Zed, GoLand
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,py,java,php,ts,react,docker,postgres,redis,linux,git,zed&theme=dark" alt="Tech Stack" />
+</p>
+
+---
 
 ### Featured Projects
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/ruohl/Go-Echo-Boilerplate">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruohl&repo=Go-Echo-Boilerplate&theme=dark&hide_border=true&bg_color=18181b&title_color=da8e35&icon_color=da8e35" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ruohl/Go-Echo-Boilerplate">Go-Echo-Boilerplate</a></h3>
+      <p>Clean Architecture backend boilerplate built with Go, Echo v5, PostgreSQL, Redis, and OpenTelemetry tracing.</p>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/ruohl/wabbajack-nexus-bridge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruohl&repo=wabbajack-nexus-bridge&theme=dark&hide_border=true&bg_color=18181b&title_color=da8e35&icon_color=da8e35" />
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ruohl/wabbajack-nexus-bridge">wabbajack-nexus-bridge</a></h3>
+      <p>Integration tooling designed for automated modding workflows, data parsing, and file handling.</p>
     </td>
   </tr>
 </table>
-
-### Contact
-
-- GitHub: [@ruohl](https://github.com/ruohl)
